@@ -19,16 +19,45 @@ Promote awareness about risks hidden within browser add-ons and encourage safer 
 ## Overview
  **" Identifying and removing suspicious browser extensions"** documents the process of identifying, analyzing, and removing suspicious browser extensions to improve security, privacy, and browser performance.
 
+# 📋 Steps Followed
 
-## Contents 
-1. **Objective** – Purpose and goals of the task.
-2. **Tools and Environment** – Software and platforms used.
-3. **Procedure** – Step-by-step process for identifying and evaluating extensions.
-4. **Key Observations** – List of extensions before cleanup and suspicious ones identified.
-5. **Outcomes** – Improvements in performance and security after cleanup.
-6. **Threats from Malicious Add-ons** – Potential risks and warning signs.
-7. **Best Practices** – Recommendations for safe browser extension usage.
-8. **Final Remarks** – Summary of findings and importance of the task.
+# 1. Access Extension Manager
+
+Chrome: Visit chrome://extensions/
+
+Firefox: Visit about:addons
+
+# 2. Review Installed Extensions
+
+Checked each extension for:
+
+Name & Publisher
+
+Purpose and description
+
+Permissions requested
+
+User reviews and ratings
+
+Installation source
+
+# 3. Identify Potentially Dangerous Extensions
+
+Flagged extensions that:
+
+Had unknown or unverified publishers
+
+Requested excessive or unrelated permissions (e.g., “Read all data on all websites”)
+
+Triggered pop-ups, redirects, or altered browser settings
+
+Had low ratings or negative reviews
+
+# 4. Remove Suspicious or Unused Extensions
+
+Uninstalled identified risky add-ons
+
+Restarted browser to finalize changes
 
 ## Summary of Findings
 - **Before Cleanup:** 5 active browser extensions.
