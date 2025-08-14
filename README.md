@@ -21,13 +21,13 @@ Promote awareness about risks hidden within browser add-ons and encourage safer 
 
 # 📋 Steps Followed
 
-# 1. Access Extension Manager
+## 1. Access Extension Manager
 
 Chrome: Visit chrome://extensions/
 
 Firefox: Visit about:addons
 
-# 2. Review Installed Extensions
+## 2. Review Installed Extensions
 
 Checked each extension for:
 
@@ -41,7 +41,7 @@ User reviews and ratings
 
 Installation source
 
-# 3. Identify Potentially Dangerous Extensions
+## 3. Identify Potentially Dangerous Extensions
 
 Flagged extensions that:
 
@@ -53,7 +53,7 @@ Triggered pop-ups, redirects, or altered browser settings
 
 Had low ratings or negative reviews
 
-# 4. Remove Suspicious or Unused Extensions
+## 4. Remove Suspicious or Unused Extensions
 
 Uninstalled identified risky add-ons
 
